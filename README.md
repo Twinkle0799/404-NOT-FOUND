@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://404-not-found-twinkle0799.vercel.app/">
+    <a href="https://twinkle0799.github.io/404-NOT-FOUND/">
       Demo
     </a>
     <span> | </span>
@@ -63,6 +63,6 @@ This site was created as a submission to a [DevChallenges](https://devchallenges
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Error 404!](https://twinkle0799.github.io/404-NOT-FOUND/)
+- GitHub [Twinkle0799](https://github.com/Twinkle0799)
+
